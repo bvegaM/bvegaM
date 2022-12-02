@@ -91,3 +91,4 @@ I am backend developer and data scientist from Ecuador 🇪🇨.
 
 - [United States- The best option for CD](https://www.kaggle.com/code/vegabryam/estados-unidos-la-mejor-opci-n-para-cd/notebook)
 - [Churn Prediction](https://www.kaggle.com/code/vegabryam/customer-churn-prediction)
+- [Time series Analysis and prediction](https://www.kaggle.com/code/vegabryam/sunspots-time-series)
