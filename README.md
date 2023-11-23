@@ -1,4 +1,4 @@
-# Hi Everyone 
+# Hi Everyone 🙌🏻
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bvegaM.bvegaM)
 ![badges-roles](https://img.shields.io/badge/software_developer-software_architect-green)
 ```java
