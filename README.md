@@ -21,8 +21,8 @@ public static void main(String args[]){
 
     developer.setName("Bryam Vega");
     developer.setCountry("Ecuador");
-    developer.setRole("Software Developer");
-    developer.setCompany("Devsu");
+    developer.setRole("Sr Java Developer");
+    developer.setCompany("Globant");
 
     develop.sayHi();
 }
@@ -39,7 +39,7 @@ I consider myself a charismatic person, easy to get along with and always willin
 <p>
  <img align="right" width="350" src="https://sessionize.com/image/06ee-400o400o2-97jJgJ1h2NcfMiPSr7nun8.jpg" alt="Coding gif" />
   
- 💻 &emsp; Currently work like Software Developer at <a href="https://devsu.com">Devsu</a>
+ 💻 &emsp; Currently work like Sr. Java Developer at <a href="https://www.globant.com/es">Globant</a>
 
  ⌨️ &emsp; My favorite languages are: **Java and python**
 
